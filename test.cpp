@@ -3,8 +3,10 @@
 using namespace std;
 
 int main() {
-	for(int i=0; i<3; i++)
-		cout<<"Hello World!"<<endl;
+	cout<<"Hello World!"<<endl;
+	cout << "hi" << endl;
+	cout << "oi" << endl;
+	cout << "ui" << endl;
 	
 	return 0;
 }
