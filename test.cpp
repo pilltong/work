@@ -4,21 +4,10 @@ using namespace std;
 
 int main() {
 	cout<<"Hello World!"<<endl;
-	cout << "Hi" << endl;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	cout << "hi" << endl;
+	cout << "oi" << endl;
+	cout << "ui" << endl;
+	
 
 
 
