@@ -4,9 +4,8 @@ using namespace std;
 
 int main() {
 	cout<<"Hello World!"<<endl;
-	int i = 10;
-	k = 2 * i;
-	cout << "i = " << i << " " << "k = " << k << endl;
+	cout << "hi" << endl;
+	cout << "oi" << endl;
 
 	return 0;
 }
